@@ -1,0 +1,501 @@
+number of sessions = 315
+session,sequence,task,event,eventType,user,duration,startTime
+74,0,1420818123.0,0.0,,Screen button/card login,None
+124,0,1420844881.0,0.0,,Screen button/card login,None
+98,0,1420834435.0,0.0,,Screen button/card login,None
+163,0,1420858659.0,0.0,,Screen button/card login,None
+240,0,1420885600.0,0.0,,Screen button/card login,None
+281,0,1420903942.0,0.0,,Screen button/card login,None
+305,0,1420915029.0,0.0,,Screen button/card login,None
+182,0,1420864195.0,0.0,,Screen button/card login,None
+59,0,1420990023.0,0.0,Logged in,Screen button/card login,None
+111,0,1420838720.0,0.0,,Screen button/card login,None
+67,0,1421032913.0,0.0,,Unexpected application restart,None
+67,1,1421032913.0,0.0,,Screen button/card login,None
+67,2,1421033064.0,151.0,Logged in,Driver card Login-driver,None
+67,3,1421033064.0,0.0,Logged in,Logged in,None
+67,4,1421039240.0,6176.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+67,5,1421039241.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+198,0,1420870688.0,0.0,,Screen button/card login,None
+36,0,1420981245.0,0.0,Logged in,Screen button/card login,None
+221,0,1420877403.0,0.0,,Screen button/card login,None
+274,0,1420900028.0,0.0,,Screen button/card login,None
+187,0,1420866518.0,0.0,,Screen button/card login,None
+99,0,1420834819.0,0.0,,Screen button/card login,None
+309,0,1420917668.0,0.0,,Screen button/card login,None
+89,0,1420829612.0,0.0,,Screen button/card login,None
+122,0,1420844402.0,0.0,,Screen button/card login,None
+175,0,1420862445.0,0.0,,Screen button/card login,None
+196,0,1420869205.0,0.0,,Screen button/card login,None
+50,0,1420986484.0,0.0,Logged in,Screen button/card login,None
+204,0,1420872301.0,0.0,,Screen button/card login,None
+80,0,1420826137.0,0.0,,Screen button/card login,None
+180,0,1420863155.0,0.0,,Screen button/card login,None
+91,0,1420830968.0,0.0,,Screen button/card login,None
+190,0,1420867133.0,0.0,,Screen button/card login,None
+234,0,1420882556.0,0.0,,Screen button/card login,None
+259,0,1420895507.0,0.0,,Screen button/card login,None
+299,0,1420911419.0,0.0,,Screen button/card login,None
+85,0,1420828298.0,0.0,,Screen button/card login,None
+147,0,1420852833.0,0.0,,Screen button/card login,None
+246,0,1420889210.0,0.0,,Screen button/card login,None
+101,0,1420835356.0,0.0,,Screen button/card login,None
+79,0,1420824314.0,0.0,,Screen button/card login,None
+51,0,1420986631.0,0.0,Logged in,Screen button/card login,None
+146,0,1420851940.0,0.0,,Screen button/card login,None
+139,0,1420850436.0,0.0,,Screen button/card login,None
+206,0,1420872738.0,0.0,,Screen button/card login,None
+132,0,1420847884.0,0.0,,Screen button/card login,None
+63,0,1420992432.0,0.0,Logged in,Screen button/card login,None
+63,1,1420992493.0,61.0,Logged in,Driver card Login-driver,None
+63,2,1420992834.0,341.0,Logged in,DRIVERSACTIVITY,None
+224,0,1420878433.0,0.0,,Screen button/card login,None
+217,0,1420876238.0,0.0,,Screen button/card login,None
+188,0,1420866695.0,0.0,,Screen button/card login,None
+60,0,1420990389.0,0.0,Logged in,Screen button/card login,None
+266,0,1420897853.0,0.0,,Screen button/card login,None
+110,0,1420838500.0,0.0,,Screen button/card login,None
+37,0,1420982333.0,0.0,Logged in,Screen button/card login,None
+152,0,1420854580.0,0.0,,Screen button/card login,None
+241,0,1420886257.0,0.0,,Screen button/card login,None
+252,0,1420892115.0,0.0,,Screen button/card login,None
+82,0,1420826622.0,0.0,,Screen button/card login,None
+58,0,1420989004.0,0.0,Logged in,Screen button/card login,None
+102,0,1420835794.0,0.0,,Screen button/card login,None
+135,0,1420849051.0,0.0,,Screen button/card login,None
+156,0,1420855896.0,0.0,,Screen button/card login,None
+160,0,1420857129.0,0.0,,Screen button/card login,None
+253,0,1420892526.0,0.0,,Screen button/card login,None
+107,0,1420837892.0,0.0,,Screen button/card login,None
+167,0,1420859744.0,0.0,,Screen button/card login,None
+119,0,1420843082.0,0.0,,Screen button/card login,None
+205,0,1420872519.0,0.0,,Screen button/card login,None
+280,0,1420903391.0,0.0,,Screen button/card login,None
+225,0,1420878651.0,0.0,,Screen button/card login,None
+64,0,1421024654.0,0.0,,Unexpected application restart,None
+64,1,1421024654.0,0.0,Logged in,Driver card Login-driver,None
+64,2,1421024654.0,0.0,Logged in,Logged in,None
+64,3,1421025186.0,532.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+64,4,1421025186.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,5,1421025189.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,6,1421025192.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,7,1421025197.0,5.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,8,1421025203.0,6.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,9,1421025206.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,10,1421025210.0,4.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,11,1421025221.0,11.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,12,1421025225.0,4.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,13,1421025228.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,14,1421025321.0,93.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,15,1421025323.0,2.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,16,1421025326.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+64,17,1421025327.0,1.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,18,1421025327.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+64,19,1421025331.0,4.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,20,1421025400.0,69.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,21,1421025518.0,118.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,22,1421025518.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,23,1421025522.0,4.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,24,1421025592.0,70.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,25,1421030039.0,4447.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,26,1421030039.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,27,1421030047.0,8.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,28,1421030073.0,26.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,29,1421030743.0,670.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,30,1421030743.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,31,1421030749.0,6.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,32,1421030761.0,12.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,33,1421038697.0,7936.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,34,1421038697.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,35,1421038705.0,8.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,36,1421038718.0,13.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,37,1421043007.0,4289.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,38,1421043007.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,39,1421043014.0,7.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,40,1421043039.0,25.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,41,1421043224.0,185.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,42,1421043225.0,1.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,43,1421043228.0,3.0,Workflow: Reply to Assignment,Workflow: Form input,None
+64,44,1421043239.0,11.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+64,45,1421045954.0,2715.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+64,46,1421045955.0,1.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+64,47,1421045956.0,1.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+64,48,1421045962.0,6.0,Workflow: Reply to Assignment,Workflow: Form input,None
+203,0,1420872156.0,0.0,,Screen button/card login,None
+28,0,1420977482.0,0.0,Logged in,Screen button/card login,None
+144,0,1420851751.0,0.0,,Screen button/card login,None
+143,0,1420851458.0,0.0,,Screen button/card login,None
+46,0,1420984648.0,0.0,Logged in,Screen button/card login,None
+27,0,1420977330.0,0.0,Logged in,Screen button/card login,None
+197,0,1420870154.0,0.0,,Screen button/card login,None
+268,0,1420898293.0,0.0,,Screen button/card login,None
+310,0,1420917816.0,0.0,,Screen button/card login,None
+11,0,1420972537.0,0.0,Logged in,Screen button/card login,None
+33,0,1420980664.0,0.0,Logged in,Screen button/card login,None
+171,0,1420860985.0,0.0,,Screen button/card login,None
+288,0,1420908213.0,0.0,,Screen button/card login,None
+65,0,1421028211.0,0.0,,Unexpected application restart,None
+65,1,1421028211.0,0.0,Logged in,Driver card Login-driver,None
+65,2,1421028211.0,0.0,Logged in,Logged in,None
+65,3,1421028242.0,31.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+65,4,1421028243.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+65,5,1421028271.0,28.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+65,6,1421028288.0,17.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+65,7,1421028292.0,4.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+65,8,1421028292.0,0.0,Workflow: Reply to Assignment,Workflow: Form input,None
+65,9,1421028420.0,128.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+5,0,1420969352.0,0.0,Logged in,Screen button/card login,None
+17,0,1420974580.0,0.0,Logged in,Screen button/card login,None
+56,0,1420988134.0,0.0,Logged in,Screen button/card login,None
+285,0,1420906637.0,0.0,,Screen button/card login,None
+293,0,1420910049.0,0.0,,Screen button/card login,None
+308,0,1420917430.0,0.0,,Screen button/card login,None
+239,0,1420885370.0,0.0,,Screen button/card login,None
+20,0,1420975452.0,0.0,Logged in,Screen button/card login,None
+78,0,1420823854.0,0.0,,Screen button/card login,None
+211,0,1420874616.0,0.0,,Screen button/card login,None
+18,0,1420974871.0,0.0,Logged in,Screen button/card login,None
+4,0,1420969198.0,0.0,Logged in,Screen button/card login,None
+92,0,1420831116.0,0.0,,Screen button/card login,None
+183,0,1420864415.0,0.0,,Screen button/card login,None
+199,0,1420871068.0,0.0,,Screen button/card login,None
+254,0,1420892743.0,0.0,,Screen button/card login,None
+126,0,1420845772.0,0.0,,Screen button/card login,None
+133,0,1420848177.0,0.0,,Screen button/card login,None
+155,0,1420855477.0,0.0,,Screen button/card login,None
+255,0,1420893469.0,0.0,,Screen button/card login,None
+242,0,1420887235.0,0.0,,Screen button/card login,None
+35,0,1420981099.0,0.0,Logged in,Screen button/card login,None
+94,0,1420831938.0,0.0,,Screen button/card login,None
+245,0,1420888731.0,0.0,,Screen button/card login,None
+44,0,1420983916.0,0.0,Logged in,Screen button/card login,None
+30,0,1420979009.0,0.0,Logged in,Screen button/card login,None
+14,0,1420973708.0,0.0,Logged in,Screen button/card login,None
+93,0,1420831429.0,0.0,,Screen button/card login,None
+222,0,1420877481.0,0.0,,Screen button/card login,None
+256,0,1420894123.0,0.0,,Screen button/card login,None
+282,0,1420905836.0,0.0,,Screen button/card login,None
+311,0,1420917999.0,0.0,,Screen button/card login,None
+223,0,1420877817.0,0.0,,Screen button/card login,None
+186,0,1420866373.0,0.0,,Screen button/card login,None
+247,0,1420890151.0,0.0,,Screen button/card login,None
+125,0,1420845392.0,0.0,,Screen button/card login,None
+176,0,1420862519.0,0.0,,Screen button/card login,None
+260,0,1420895756.0,0.0,,Screen button/card login,None
+297,0,1420910756.0,0.0,,Screen button/card login,None
+38,0,1420982622.0,0.0,Logged in,Screen button/card login,None
+22,0,1420975674.0,0.0,Logged in,Screen button/card login,None
+208,0,1420873611.0,0.0,,Screen button/card login,None
+164,0,1420859176.0,0.0,,Screen button/card login,None
+294,0,1420910197.0,0.0,,Screen button/card login,None
+165,0,1420859425.0,0.0,,Screen button/card login,None
+267,0,1420897999.0,0.0,,Screen button/card login,None
+117,0,1420842642.0,0.0,,Screen button/card login,None
+238,0,1420884824.0,0.0,,Screen button/card login,None
+57,0,1420988858.0,0.0,Logged in,Screen button/card login,None
+159,0,1420857054.0,0.0,,Screen button/card login,None
+39,0,1420982841.0,0.0,Logged in,Screen button/card login,None
+116,0,1420842496.0,0.0,,Screen button/card login,None
+12,0,1420972981.0,0.0,Logged in,Screen button/card login,None
+140,0,1420850803.0,0.0,,Screen button/card login,None
+73,0,1420818122.0,0.0,,Unfinished tasks,None
+213,0,1420874909.0,0.0,,Screen button/card login,None
+290,0,1420908668.0,0.0,,Screen button/card login,None
+262,0,1420896617.0,0.0,,Screen button/card login,None
+61,0,1420991229.0,0.0,Logged in,Screen button/card login,None
+55,0,1420987335.0,0.0,Logged in,Screen button/card login,None
+131,0,1420847665.0,0.0,,Screen button/card login,None
+200,0,1420871575.0,0.0,,Screen button/card login,None
+212,0,1420874689.0,0.0,,Screen button/card login,None
+24,0,1420976017.0,0.0,Logged in,Screen button/card login,None
+129,0,1420846354.0,0.0,,Screen button/card login,None
+227,0,1420879091.0,0.0,,Screen button/card login,None
+100,0,1420834897.0,0.0,,Screen button/card login,None
+277,0,1420901214.0,0.0,,Screen button/card login,None
+269,0,1420898655.0,0.0,,Screen button/card login,None
+230,0,1420880840.0,0.0,,Screen button/card login,None
+106,0,1420837106.0,0.0,,Screen button/card login,None
+300,0,1420911637.0,0.0,,Screen button/card login,None
+303,0,1420913673.0,0.0,,Screen button/card login,None
+194,0,1420868733.0,0.0,,Screen button/card login,None
+40,0,1420983062.0,0.0,Logged in,Screen button/card login,None
+286,0,1420906787.0,0.0,,Screen button/card login,None
+302,0,1420912803.0,0.0,,Screen button/card login,None
+289,0,1420908524.0,0.0,,Screen button/card login,None
+7,0,1420971544.0,0.0,Logged in,Screen button/card login,None
+148,0,1420853053.0,0.0,,Screen button/card login,None
+31,0,1420979373.0,0.0,Logged in,Screen button/card login,None
+45,0,1420984571.0,0.0,Logged in,Screen button/card login,None
+185,0,1420865502.0,0.0,,Screen button/card login,None
+209,0,1420873832.0,0.0,,Screen button/card login,None
+3,0,1420969054.0,0.0,Logged in,Screen button/card login,None
+2,0,1420968818.0,0.0,,Unexpected application restart,None
+2,1,1420968818.0,0.0,Logged in,Driver card Login-driver,None
+2,2,1420968818.0,0.0,Logged in,Logged in,None
+2,3,1420968824.0,6.0,New Message Notification,Notification: new message,None
+2,4,1420968824.0,0.0,New Message Notification,New Message Notification,None
+2,5,1420968834.0,10.0,New Message Notification,Notification: dismiss message,None
+2,6,1420968844.0,10.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,7,1420968846.0,2.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+2,8,1420968848.0,2.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,9,1420969186.0,338.0,Message Reply,Message: inbox,None
+2,10,1420969186.0,0.0,Message Reply,Message Reply,None
+2,11,1420969197.0,11.0,Message Reply,Message: delete,None
+2,12,1420969197.0,0.0,Message Reply,Message Reply,None
+2,13,1420969203.0,6.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,14,1420969204.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+2,15,1420969214.0,10.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,16,1420974425.0,5211.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,17,1420974456.0,31.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,18,1420974489.0,33.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,19,1420974492.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+2,20,1420977925.0,3433.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,21,1420977925.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,22,1420977926.0,1.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,23,1420977927.0,1.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,24,1420980517.0,2590.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,25,1420980517.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,26,1420980523.0,6.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,27,1420980525.0,2.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,28,1420982111.0,1586.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,29,1420982112.0,1.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,30,1420982112.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,31,1420982123.0,11.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,32,1420982848.0,725.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,33,1420982848.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+2,34,1420982849.0,1.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,35,1420982858.0,9.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,36,1421040429.0,57571.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,37,1421040430.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+2,38,1421040433.0,3.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,39,1421040433.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,40,1421040434.0,1.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,41,1421040436.0,2.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,42,1421040865.0,429.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,43,1421040865.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,44,1421040866.0,1.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,45,1421040867.0,1.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+2,46,1421044318.0,3451.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+2,47,1421044318.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+2,48,1421044321.0,3.0,Workflow: Reply to Assignment,Workflow: Form input,None
+2,49,1421044336.0,15.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+29,0,1420978863.0,0.0,Logged in,Screen button/card login,None
+137,0,1420849780.0,0.0,,Screen button/card login,None
+161,0,1420857420.0,0.0,,Screen button/card login,None
+236,0,1420883507.0,0.0,,Screen button/card login,None
+307,0,1420917283.0,0.0,,Screen button/card login,None
+192,0,1420867571.0,0.0,,Screen button/card login,None
+181,0,1420863979.0,0.0,,Screen button/card login,None
+145,0,1420851826.0,0.0,,Screen button/card login,None
+261,0,1420896157.0,0.0,,Screen button/card login,None
+43,0,1420983626.0,0.0,Logged in,Screen button/card login,None
+136,0,1420849195.0,0.0,,Screen button/card login,None
+34,0,1420980956.0,0.0,Logged in,Screen button/card login,None
+141,0,1420850948.0,0.0,,Screen button/card login,None
+237,0,1420883653.0,0.0,,Screen button/card login,None
+250,0,1420891021.0,0.0,,Screen button/card login,None
+115,0,1420842276.0,0.0,,Screen button/card login,None
+142,0,1420851168.0,0.0,,Screen button/card login,None
+257,0,1420894270.0,0.0,,Screen button/card login,None
+270,0,1420898876.0,0.0,,Screen button/card login,None
+273,0,1420899955.0,0.0,,Screen button/card login,None
+23,0,1420975852.0,0.0,Logged in,Screen button/card login,None
+26,0,1420977179.0,0.0,Logged in,Screen button/card login,None
+158,0,1420856691.0,0.0,,Screen button/card login,None
+295,0,1420910341.0,0.0,,Screen button/card login,None
+86,0,1420828665.0,0.0,,Screen button/card login,None
+95,0,1420833468.0,0.0,,Screen button/card login,None
+214,0,1420875270.0,0.0,,Screen button/card login,None
+313,0,1420918237.0,0.0,,Screen button/card login,None
+8,0,1420971984.0,0.0,Logged in,Screen button/card login,None
+157,0,1420855991.0,0.0,,Screen button/card login,None
+113,0,1420840832.0,0.0,,Screen button/card login,None
+265,0,1420897344.0,0.0,,Screen button/card login,None
+276,0,1420900923.0,0.0,,Screen button/card login,None
+104,0,1420836594.0,0.0,,Screen button/card login,None
+87,0,1420828882.0,0.0,,Screen button/card login,None
+97,0,1420834287.0,0.0,,Screen button/card login,None
+109,0,1420838428.0,0.0,,Screen button/card login,None
+298,0,1420911055.0,0.0,,Screen button/card login,None
+149,0,1420853633.0,0.0,,Screen button/card login,None
+279,0,1420903111.0,0.0,,Screen button/card login,None
+271,0,1420899314.0,0.0,,Screen button/card login,None
+114,0,1420841014.0,0.0,,Screen button/card login,None
+172,0,1420861057.0,0.0,,Screen button/card login,None
+32,0,1420979844.0,0.0,Logged in,Screen button/card login,None
+90,0,1420829760.0,0.0,,Screen button/card login,None
+202,0,1420871938.0,0.0,,Screen button/card login,None
+193,0,1420867789.0,0.0,,Screen button/card login,None
+229,0,1420880475.0,0.0,,Screen button/card login,None
+9,0,1420972161.0,0.0,Logged in,Screen button/card login,None
+70,0,1421036173.0,0.0,,Unexpected application restart,None
+70,1,1421036173.0,0.0,,Screen button/card login,None
+70,2,1421036188.0,15.0,Logged in,Driver card Login-driver,None
+70,3,1421036188.0,0.0,Logged in,Logged in,None
+70,4,1421043792.0,7604.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+70,5,1421043793.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+162,0,1420858368.0,0.0,,Screen button/card login,None
+264,0,1420897126.0,0.0,,Screen button/card login,None
+168,0,1420860107.0,0.0,,Screen button/card login,None
+243,0,1420887817.0,0.0,,Screen button/card login,None
+6,0,1420969652.0,0.0,,Unexpected application restart,None
+6,1,1420969652.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+6,2,1420969652.0,0.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+6,3,1420969670.0,18.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+6,4,1420970055.0,385.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+306,0,1420916918.0,0.0,,Screen button/card login,None
+287,0,1420906975.0,0.0,,Screen button/card login,None
+249,0,1420890587.0,0.0,,Screen button/card login,None
+291,0,1420909466.0,0.0,,Screen button/card login,None
+301,0,1420912366.0,0.0,,Screen button/card login,None
+226,0,1420878870.0,0.0,,Screen button/card login,None
+263,0,1420896835.0,0.0,,Screen button/card login,None
+81,0,1420826392.0,0.0,,Screen button/card login,None
+195,0,1420869058.0,0.0,,Screen button/card login,None
+248,0,1420890443.0,0.0,,Screen button/card login,None
+153,0,1420855093.0,0.0,,Screen button/card login,None
+138,0,1420849926.0,0.0,,Screen button/card login,None
+15,0,1420973856.0,0.0,Logged in,Screen button/card login,None
+258,0,1420894850.0,0.0,,Screen button/card login,None
+53,0,1420986946.0,0.0,Logged in,Screen button/card login,None
+118,0,1420842715.0,0.0,,Screen button/card login,None
+210,0,1420874232.0,0.0,,Screen button/card login,None
+228,0,1420879673.0,0.0,,Screen button/card login,None
+52,0,1420986707.0,0.0,Logged in,Screen button/card login,None
+170,0,1420860765.0,0.0,,Screen button/card login,None
+278,0,1420901287.0,0.0,,Screen button/card login,None
+105,0,1420836668.0,0.0,,Screen button/card login,None
+215,0,1420875635.0,0.0,,Screen button/card login,None
+284,0,1420906563.0,0.0,,Screen button/card login,None
+314,0,1420919833.0,0.0,,Screen button/card login,None
+25,0,1420976163.0,0.0,Logged in,Screen button/card login,None
+121,0,1420843740.0,0.0,,Screen button/card login,None
+173,0,1420861495.0,0.0,,Screen button/card login,None
+1,0,1420968765.0,0.0,Logged in,Screen button/card login,None
+275,0,1420900251.0,0.0,,Screen button/card login,None
+272,0,1420899460.0,0.0,,Screen button/card login,None
+47,0,1420984959.0,0.0,Logged in,Screen button/card login,None
+96,0,1420833711.0,0.0,,Screen button/card login,None
+10,0,1420972306.0,0.0,Logged in,Screen button/card login,None
+49,0,1420985831.0,0.0,Logged in,Screen button/card login,None
+62,0,1420992262.0,0.0,Logged in,Screen button/card login,None
+88,0,1420829392.0,0.0,,Screen button/card login,None
+292,0,1420909903.0,0.0,,Screen button/card login,None
+231,0,1420881057.0,0.0,,Screen button/card login,None
+48,0,1420985685.0,0.0,Logged in,Screen button/card login,None
+184,0,1420864487.0,0.0,,Screen button/card login,None
+130,0,1420847008.0,0.0,,Screen button/card login,None
+77,0,1420822835.0,0.0,,Screen button/card login,None
+178,0,1420862821.0,0.0,,Screen button/card login,None
+232,0,1420881133.0,0.0,,Screen button/card login,None
+207,0,1420873248.0,0.0,,Screen button/card login,None
+21,0,1420975597.0,0.0,Logged in,Screen button/card login,None
+123,0,1420844486.0,0.0,,Screen button/card login,None
+191,0,1420867425.0,0.0,,Screen button/card login,None
+315,0,1420920053.0,0.0,,Screen button/card login,None
+296,0,1420910493.0,0.0,,Screen button/card login,None
+13,0,1420973127.0,0.0,Logged in,Screen button/card login,None
+189,0,1420866842.0,0.0,,Screen button/card login,None
+128,0,1420846282.0,0.0,,Screen button/card login,None
+54,0,1420987093.0,0.0,Logged in,Screen button/card login,None
+83,0,1420827498.0,0.0,,Screen button/card login,None
+120,0,1420843300.0,0.0,,Screen button/card login,None
+66,0,1421030809.0,0.0,,Unexpected application restart,None
+66,1,1421030822.0,13.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+66,2,1421030822.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+66,3,1421030827.0,5.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+103,0,1420836304.0,0.0,,Screen button/card login,None
+108,0,1420838281.0,0.0,,Screen button/card login,None
+134,0,1420848803.0,0.0,,Screen button/card login,None
+169,0,1420860619.0,0.0,,Screen button/card login,None
+41,0,1420983174.0,0.0,Logged in,Screen button/card login,None
+179,0,1420863008.0,0.0,,Screen button/card login,None
+72,0,1421038419.0,0.0,Logged in,Driver card Login-driver,None
+72,1,1421038419.0,0.0,Logged in,Logged in,None
+76,0,1421041722.0,0.0,,Unexpected application restart,None
+76,1,1421041722.0,0.0,Logged in,Driver card Login-driver,None
+76,2,1421041722.0,0.0,Logged in,Logged in,None
+76,3,1421043258.0,1536.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+76,4,1421043259.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+76,5,1421043259.0,0.0,Workflow: Reply to Assignment,Workflow: New assignment,None
+76,6,1421043259.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+76,7,1421043262.0,3.0,Workflow: Reply to Assignment,Workflow: Form input,None
+16,0,1420974434.0,0.0,Logged in,Screen button/card login,None
+151,0,1420854434.0,0.0,,Screen button/card login,None
+154,0,1420855312.0,0.0,,Screen button/card login,None
+166,0,1420859597.0,0.0,,Screen button/card login,None
+75,0,1421039671.0,0.0,,Unexpected application restart,None
+75,1,1421039671.0,0.0,Logged in,Driver card Login-driver,None
+75,2,1421039671.0,0.0,Logged in,Logged in,None
+75,3,1421039681.0,10.0,New Assignment Notification,Notification: new assignment,None
+75,4,1421039681.0,0.0,New Assignment Notification,Notification: new assignment,None
+75,5,1421039681.0,0.0,New Assignment Notification,Notification: new assignment,None
+75,6,1421039681.0,0.0,New Assignment Notification,New Assignment Notification,None
+75,7,1421039682.0,1.0,New Assignment Notification,Notification: new assignment,None
+75,8,1421039682.0,0.0,New Assignment Notification,Notification: new assignment,None
+75,9,1421039682.0,0.0,New Assignment Notification,Notification: new assignment,None
+75,10,1421039685.0,3.0,New Assignment Notification,Notification: new assignment,None
+75,11,1421039688.0,3.0,New Assignment Notification,Notification: new assignment,None
+75,12,1421039689.0,1.0,New Assignment Notification,Notification: new assignment,None
+75,13,1421039689.0,0.0,New Assignment Notification,Notification: new assignment,None
+75,14,1421039690.0,1.0,New Assignment Notification,Notification: new assignment,None
+75,15,1421039691.0,1.0,New Assignment Notification,Notification: dismiss assignment,None
+112,0,1420839011.0,0.0,,Screen button/card login,None
+174,0,1420861860.0,0.0,,Screen button/card login,None
+177,0,1420862736.0,0.0,,Screen button/card login,None
+201,0,1420871793.0,0.0,,Screen button/card login,None
+84,0,1420828078.0,0.0,,Screen button/card login,None
+216,0,1420875876.0,0.0,,Screen button/card login,None
+218,0,1420876311.0,0.0,,Screen button/card login,None
+219,0,1420876966.0,0.0,,Screen button/card login,None
+244,0,1420888473.0,0.0,,Screen button/card login,None
+233,0,1420882048.0,0.0,,Screen button/card login,None
+283,0,1420906417.0,0.0,,Screen button/card login,None
+304,0,1420914112.0,0.0,,Screen button/card login,None
+251,0,1420891168.0,0.0,,Screen button/card login,None
+235,0,1420883216.0,0.0,,Screen button/card login,None
+71,0,1421038438.0,0.0,,Unexpected application restart,None
+71,1,1421038453.0,15.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+71,2,1421038453.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+71,3,1421038456.0,3.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,4,1421038505.0,49.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,5,1421038516.0,11.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,6,1421038532.0,16.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+71,7,1421038532.0,0.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+71,8,1421038544.0,12.0,Workflow: Reply to Assignment,Workflow: Form input,None
+71,9,1421038613.0,69.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,10,1421038619.0,6.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+71,11,1421038619.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+71,12,1421045296.0,6677.0,New Assignment Notification,Notification: new assignment,None
+71,13,1421045296.0,0.0,New Assignment Notification,New Assignment Notification,None
+71,14,1421045540.0,244.0,New Assignment Notification,Notification: new assignment,None
+71,15,1421045560.0,20.0,New Assignment Notification,Notification: open assignment,None
+71,16,1421045560.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+71,17,1421045561.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+71,18,1421045604.0,43.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,19,1421045607.0,3.0,Workflow: Reply to Assignment,Workflow: Update assignment,None
+71,20,1421045607.0,0.0,Workflow: Reply to Assignment,Workflow: Select Form,None
+71,21,1421045609.0,2.0,Workflow: Reply to Assignment,Workflow: Form input,None
+71,22,1421045616.0,7.0,,Workflow: assignment not validated,None
+71,23,1421045686.0,70.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+71,24,1421045740.0,54.0,Workflow: Reply to Assignment,Workflow: Selected assignment,None
+69,0,1421036153.0,0.0,,Unexpected application restart,None
+69,1,1421036153.0,0.0,,Screen button/card login,None
+69,2,1421037972.0,1819.0,Logged in,Driver card Login-driver,None
+69,3,1421037972.0,0.0,Logged in,Logged in,None
+69,4,1421038103.0,131.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+69,5,1421038103.0,0.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+69,6,1421038227.0,124.0,,DRIVERSACTIVITY,None
+220,0,1420877112.0,0.0,,Screen button/card login,None
+150,0,1420853853.0,0.0,,Screen button/card login,None
+312,0,1420918166.0,0.0,,Screen button/card login,None
+42,0,1420983336.0,0.0,Logged in,Screen button/card login,None
+19,0,1420975017.0,0.0,Logged in,Screen button/card login,None
+127,0,1420846135.0,0.0,,Screen button/card login,None
+68,0,1421034726.0,0.0,,Unexpected application restart,None
+68,1,1421034726.0,0.0,,Screen button/card login,None
+68,2,1421034839.0,113.0,Logged in,Driver card Login-driver,None
+68,3,1421034839.0,0.0,Logged in,Logged in,None
+68,4,1421039060.0,4221.0,Workflow: Reply to Assignment,Workflow: Reply to Assignment,None
+68,5,1421039061.0,1.0,Workflow: Reply to Assignment,Workflow: All assignments,None
+68,6,1421041393.0,2332.0,,DRIVERSACTIVITY,None

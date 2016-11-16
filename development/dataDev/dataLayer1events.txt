@@ -1,0 +1,12 @@
+id,name
+0,
+1,Screen button/card login
+2,Unexpected application restart
+3,Driver card Login-driver
+4,Logged in
+5,Notification: new message
+6,Notification: dismiss message
+7,New Message Notification
+8,Workflow: All assignments
+9,Workflow: Selected assignment
+10,Workflow: Reply to Assignment

@@ -1,0 +1,17 @@
+id,name
+0,
+1,Logged in
+2,New Message Notification
+3,Workflow: Reply to Assignment
+4,Message Reply
+5,New Assignment Notification
+6,New Message
+7,Switch drivers
+8,Driver Coach interaction
+9,Scan
+10,Workflow: Reply to Assignment with Attachment(s)
+11,Camera picture
+12,Gallery picture
+13,taskID
+14,Signature
+15,Gallery signature

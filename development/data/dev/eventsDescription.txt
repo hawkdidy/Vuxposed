@@ -1,0 +1,250 @@
+Model Events Description:
+
+Event: 1, E-Manual login: wrong combination belongs to: 1 tasks
+	2 		Logged in
+Event: 121, E-Message: empty belongs to: 1 tasks
+	7 		New Message
+Event: 106, E-Message: empty belongs to: 1 tasks
+	5 		Message Reply
+Event: 110, E-Unexpected application restart belongs to: 1 tasks
+	1 		No Task
+Event: 51, E-Unfinished tasks belongs to: 1 tasks
+	2 		Logged in
+Event: 21, E-Unfinished tasks belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 28, E-Unfinished tasks belongs to: 1 tasks
+	1 		No Task
+Event: 82, E-Unfinished tasks belongs to: 1 tasks
+	5 		Message Reply
+Event: 97, E-Unfinished tasks belongs to: 1 tasks
+	3 		New Message Notification
+Event: 43, E-Workflow: assignment not validated belongs to: 1 tasks
+	1 		No Task
+Event: 81, F-Assignment reply camera picture: new belongs to: 1 tasks
+	12 		Camera picture
+Event: 118, F-Assignment reply gallery picture: new belongs to: 1 tasks
+	13 		Gallery picture
+Event: 7, F-Assignment reply gallery picure: new belongs to: 1 tasks
+	13 		Gallery picture
+Event: 24, F-Assignment reply scan: new belongs to: 1 tasks
+	11 		Scan
+Event: 79, F-Driver card Login-codriver belongs to: 1 tasks
+	2 		Logged in
+Event: 36, F-Driver card Login-driver belongs to: 1 tasks
+	2 		Logged in
+Event: 75, F-Ibutton Login-codriver belongs to: 1 tasks
+	2 		Logged in
+Event: 101, F-Ibutton Login-driver belongs to: 1 tasks
+	2 		Logged in
+Event: 52, F-Manual Login-codriver belongs to: 1 tasks
+	2 		Logged in
+Event: 49, F-Manual Login-driver belongs to: 1 tasks
+	2 		Logged in
+Event: 46, F-Message: delete belongs to: 1 tasks
+	5 		Message Reply
+Event: 32, F-Message: delete belongs to: 1 tasks
+	1 		No Task
+Event: 104, F-Message: read message belongs to: 1 tasks
+	5 		Message Reply
+Event: 73, F-Message: read message belongs to: 1 tasks
+	1 		No Task
+Event: 14, F-Message: reply belongs to: 1 tasks
+	7 		New Message
+Event: 70, F-Message: reply belongs to: 1 tasks
+	1 		No Task
+Event: 113, F-Message: reply belongs to: 1 tasks
+	5 		Message Reply
+Event: 103, F-Message: select belongs to: 1 tasks
+	5 		Message Reply
+Event: 78, F-Message: select belongs to: 1 tasks
+	7 		New Message
+Event: 122, F-Message: select belongs to: 1 tasks
+	1 		No Task
+Event: 94, F-Message: send belongs to: 1 tasks
+	7 		New Message
+Event: 99, F-Message: send belongs to: 1 tasks
+	1 		No Task
+Event: 47, F-Message: send belongs to: 1 tasks
+	5 		Message Reply
+Event: 89, F-Message: stop message belongs to: 1 tasks
+	5 		Message Reply
+Event: 42, F-Notification: dismiss assignment belongs to: 1 tasks
+	6 		New Assignment Notification
+Event: 40, F-Notification: dismiss assignment belongs to: 1 tasks
+	1 		No Task
+Event: 100, F-Notification: dismiss message belongs to: 1 tasks
+	1 		No Task
+Event: 124, F-Notification: dismiss message belongs to: 1 tasks
+	3 		New Message Notification
+Event: 102, F-Notification: open assignment belongs to: 1 tasks
+	1 		No Task
+Event: 13, F-Notification: open assignment belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 119, F-Notification: open assignment belongs to: 1 tasks
+	6 		New Assignment Notification
+Event: 2, F-Notification: open message belongs to: 1 tasks
+	3 		New Message Notification
+Event: 72, F-Notification: open message belongs to: 1 tasks
+	1 		No Task
+Event: 111, F-Notification: open message belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 4, F-Notification: read message belongs to: 1 tasks
+	1 		No Task
+Event: 71, F-Notification: read message belongs to: 1 tasks
+	3 		New Message Notification
+Event: 87, F-Undocked camera picture: new belongs to: 1 tasks
+	12 		Camera picture
+Event: 114, F-Undocked scan: new belongs to: 1 tasks
+	11 		Scan
+Event: 90, F-Workflow: New assignment belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 61, F-Workflow: Selected assignment belongs to: 1 tasks
+	1 		No Task
+Event: 38, F-Workflow: Selected assignment belongs to: 1 tasks
+	6 		New Assignment Notification
+Event: 105, F-Workflow: Selected assignment belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 54, F-Workflow: Update assignment belongs to: 1 tasks
+	1 		No Task
+Event: 67, F-Workflow: Update assignment belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 20, F-coasting: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 9, F-coasting: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 33, F-coasting: red => amber belongs to: 1 tasks
+	9 		System Task
+Event: 17, F-cruise control: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 63, F-cruise control: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 27, F-cruise control: amber => red belongs to: 1 tasks
+	9 		System Task
+Event: 77, F-cruise control: red => amber belongs to: 1 tasks
+	9 		System Task
+Event: 112, F-cruise control: red => red belongs to: 1 tasks
+	9 		System Task
+Event: 19, F-eco rpm: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 58, F-eco rpm: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 83, F-eco rpm: amber => red belongs to: 1 tasks
+	9 		System Task
+Event: 16, F-eco rpm: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 85, F-eco rpm: red => amber belongs to: 1 tasks
+	9 		System Task
+Event: 74, F-long idling: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 55, F-long idling: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 84, F-long idling: amber => red belongs to: 1 tasks
+	9 		System Task
+Event: 64, F-long idling: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 31, F-long idling: red => green belongs to: 1 tasks
+	9 		System Task
+Event: 66, F-pto: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 60, F-short idling: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 29, F-short idling: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 56, F-short idling: amber => red belongs to: 1 tasks
+	9 		System Task
+Event: 69, F-short idling: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 11, F-short idling: green => red belongs to: 1 tasks
+	9 		System Task
+Event: 41, F-short idling: red => amber belongs to: 1 tasks
+	9 		System Task
+Event: 80, F-short idling: red => green belongs to: 1 tasks
+	9 		System Task
+Event: 65, F-speeding events: amber => amber belongs to: 1 tasks
+	9 		System Task
+Event: 10, F-speeding events: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 5, F-speeding events: amber => red belongs to: 1 tasks
+	9 		System Task
+Event: 25, F-speeding events: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 26, F-wasted inertia: amber => green belongs to: 1 tasks
+	9 		System Task
+Event: 6, F-wasted inertia: green => amber belongs to: 1 tasks
+	9 		System Task
+Event: 96, S-DRIVERSACTIVITY belongs to: 1 tasks
+	5 		Message Reply
+Event: 12, S-DRIVERSACTIVITY belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 117, S-DRIVERSACTIVITY belongs to: 1 tasks
+	1 		No Task
+Event: 59, S-DRIVERSACTIVITY belongs to: 1 tasks
+	2 		Logged in
+Event: 3, S-Driver Coach page selected: events belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 30, S-Driver Coach page selected: events 2 belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 34, S-Driver Coach page selected: home belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 76, S-Driver Coach page selected: idling belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 108, S-Driver Coach page selected: idling 2 belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 91, S-Driver Coach page selected: style belongs to: 1 tasks
+	10 		Driver Coach interaction
+Event: 57, S-Message: failed belongs to: 1 tasks
+	5 		Message Reply
+Event: 37, S-Message: inbox belongs to: 1 tasks
+	5 		Message Reply
+Event: 45, S-Message: new belongs to: 1 tasks
+	7 		New Message
+Event: 115, S-Message: new reply belongs to: 1 tasks
+	1 		No Task
+Event: 23, S-Message: new reply belongs to: 1 tasks
+	5 		Message Reply
+Event: 109, S-Message: new reply belongs to: 1 tasks
+	7 		New Message
+Event: 123, S-Message: sent belongs to: 1 tasks
+	5 		Message Reply
+Event: 18, S-Notification: new assignment belongs to: 1 tasks
+	6 		New Assignment Notification
+Event: 116, S-Notification: new message belongs to: 1 tasks
+	3 		New Message Notification
+Event: 86, S-Screen button/card login belongs to: 1 tasks
+	5 		Message Reply
+Event: 53, S-Screen button/card login belongs to: 1 tasks
+	7 		New Message
+Event: 39, S-Screen button/card login belongs to: 1 tasks
+	2 		Logged in
+Event: 95, S-Screen button/card login belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 8, S-Screen button/card login belongs to: 1 tasks
+	1 		No Task
+Event: 120, S-Screen button/card login belongs to: 1 tasks
+	6 		New Assignment Notification
+Event: 88, S-Screen button/card login belongs to: 1 tasks
+	3 		New Message Notification
+Event: 68, S-Screen button/card login belongs to: 1 tasks
+	8 		Switch drivers
+Event: 35, S-Screen manual login belongs to: 1 tasks
+	1 		No Task
+Event: 15, S-Screen manual login belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 22, S-Screen manual login belongs to: 1 tasks
+	5 		Message Reply
+Event: 93, S-Workflow: All assignments belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 92, S-Workflow: Finished assignments belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 50, S-Workflow: Form input belongs to: 1 tasks
+	1 		No Task
+Event: 48, S-Workflow: Form input belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 107, S-Workflow: Select Form belongs to: 1 tasks
+	1 		No Task
+Event: 62, S-Workflow: Select Form belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 98, S-Workflow: Started assignments belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment
+Event: 44, S-Workflow: Unfinished assignments belongs to: 1 tasks
+	4 		Workflow: Reply to Assignment

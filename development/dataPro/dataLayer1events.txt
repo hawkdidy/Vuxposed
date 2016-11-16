@@ -1,0 +1,150 @@
+id,name
+0,
+1,Screen button/card login
+2,Unexpected application restart
+3,Driver card Login-driver
+4,Logged in
+5,Notification: new message
+6,Notification: dismiss message
+7,New Message Notification
+8,Workflow: All assignments
+9,Workflow: Selected assignment
+10,Workflow: Reply to Assignment
+11,Message: inbox
+12,Message: delete
+13,Message Reply
+14,Workflow: Update assignment
+15,Workflow: Select Form
+16,Workflow: Form input
+17,Workflow: New assignment
+18,DRIVERSACTIVITY
+19,Unfinished tasks
+20,Notification: new assignment
+21,Notification: dismiss assignment
+22,New Assignment Notification
+23,Notification: open assignment
+24,Workflow: assignment not validated
+25,Workflow: Unfinished assignments
+26,Screen manual login
+27,Manual Login-driver
+28,Message: new
+29,New Message
+30,Message: send
+31,Workflow: Finished assignments
+32,Workflow: Started assignments
+33,Message: select
+34,Notification: open message
+35,Message: read message
+36,Manual login: wrong combination
+37,Notification: read message
+38,Message: sent
+39,Message: failed
+40,Driver card Login-codriver
+41,Message: reply
+42,Message: new reply
+43,Manual Login-codriver
+44,Switch drivers
+45,Ibutton Login-driver
+46,Ibutton Login-codriver
+47,Message: stop message
+48,Message: empty
+49,harsh braking: green => red
+50,Driver Coach interaction
+51,harsh braking: green => amber
+52,harsh braking: amber => green
+53,Driver Coach page selected: style
+54,Driver Coach page selected: home
+55,Driver Coach page selected: events
+56,Driver Coach page selected: events 2
+57,Driver Coach page selected: idling
+58,Driver Coach page selected: idling 2
+59,Undocked scan: new
+60,Scan
+61,Workflow: Reply to Assignment with Attachment(s)
+62,Assignment reply camera picture: new
+63,Camera picture
+64,Assignment reply scan: new
+65,speeding: green => red
+66,speeding events: green => red
+67,over revving: green => red
+68,speeding events: red => amber
+69,speeding events: amber => green
+70,speeding events: green => amber
+71,speeding events: amber => red
+72,speeding: red => amber
+73,speeding: amber => red
+74,speeding events: amber => amber
+75,over revving: green => amber
+76,eco rpm: red => amber
+77,speeding: amber => green
+78,over revving: amber => red
+79,eco rpm: amber => red
+80,short idling: red => amber
+81,eco rpm: green => amber
+82,speeding: red => green
+83,long idling: green => red
+84,Undocked camera picture: new
+85,Assignment reply gallery picure: new
+86,Gallery picture
+87,Scan gallery: invalid scanned document
+88,eco rpm: amber => green
+89,over revving: red => amber
+90,activityID
+91,cruise control: red => amber
+92,cruise control: amber => red
+93,cruise control: amber => amber
+94,short idling: amber => green
+95,long idling: green => amber
+96,short idling: amber => amber
+97,pto: amber => red
+98,eco rpm: amber => amber
+99,short idling: green => amber
+100,Signature
+101,long idling: amber => green
+102,pto: green => amber
+103,short idling: red => green
+104,cruise control: amber => green
+105,coasting: amber => green
+106,coasting: red => amber
+107,long idling: amber => amber
+108,Assignment reply gallery picture: new
+109,coasting: green => green
+110,long idling: red => amber
+111,wasted inertia: green => amber
+112,harsh acceleration: red => green
+113,wasted inertia: amber => red
+114,short idling: amber => red
+115,wasted inertia: red => amber
+116,wasted inertia: amber => green
+117,short idling: green => red
+118,long idling: red => green
+119,cruise control: red => red
+120,long idling: amber => red
+121,coasting: amber => red
+122,coasting: amber => amber
+123,coasting: green => amber
+124,wasted inertia: red => green
+125,pto: amber => green
+126,Gallery signature
+127,harsh acceleration: green => red
+128,harsh braking: red => green
+129,cruise control: green => green
+130,pto: amber => amber
+131,wasted inertia: amber => amber
+132,speeding events: red => green
+133,speeding: green => amber
+134,eco rpm: red => red
+135,Assignment reply signature: new
+136,over revving: amber => green
+137,wasted inertia: green => red
+138,Message: too long
+139,coasting: red => red
+140,harsh acceleration: red => amber
+141,pto: green => red
+142,pto: red => green
+143,speeding: amber => amber
+144,cruise control: green => amber
+145,harsh braking: amber => amber
+146,harsh acceleration: green => amber
+147,harsh braking: amber => red
+148,over revving: red => green

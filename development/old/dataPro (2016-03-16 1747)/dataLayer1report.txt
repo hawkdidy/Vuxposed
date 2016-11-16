@@ -1,0 +1,11 @@
+Report for the generation of the data layer 1  (productive)
+Completed: 2016-03-15 10:47:58 +0000
+Number of processed records: 1064119
+Number of different sessions: 523328
+Number of different tasks: 29
+Number of different events: 257
+Number of different users: 2369
+Number of different event types: 5
+
+DEBUGGING: number of records processed is limited to max: 9999999 records
+Total processing time (including file operations, excluding app launch and GUI): 60.0742559432983 seconds

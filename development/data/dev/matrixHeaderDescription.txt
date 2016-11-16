@@ -1,0 +1,128 @@
+
+Matrix events:
+
+Freq: 415959    	Task: (1) No Task | Event: S-Screen button/card login
+Freq: 9212      	Task: (1) No Task | Event: E-Unexpected application restart
+Freq: 1672      	Task: (1) No Task | Event: F-Notification: open message
+Freq: 1180      	Task: (1) No Task | Event: F-Message: select
+Freq: 1001      	Task: (1) No Task | Event: F-Notification: open assignment
+Freq: 852       	Task: (1) No Task | Event: E-Unfinished tasks
+Freq: 810       	Task: (1) No Task | Event: S-DRIVERSACTIVITY
+Freq: 747       	Task: (1) No Task | Event: E-Workflow: assignment not validated
+Freq: 634       	Task: (1) No Task | Event: S-Screen manual login
+Freq: 486       	Task: (1) No Task | Event: F-Notification: read message
+Freq: 463       	Task: (1) No Task | Event: F-Notification: dismiss message
+Freq: 331       	Task: (1) No Task | Event: F-Message: send
+Freq: 318       	Task: (1) No Task | Event: S-Message: new reply
+Freq: 318       	Task: (1) No Task | Event: F-Message: reply
+Freq: 289       	Task: (1) No Task | Event: F-Workflow: Selected assignment
+Freq: 264       	Task: (1) No Task | Event: F-Message: delete
+Freq: 236       	Task: (1) No Task | Event: S-Workflow: Select Form
+Freq: 154       	Task: (1) No Task | Event: S-Workflow: Form input
+Freq: 77        	Task: (1) No Task | Event: F-Workflow: Update assignment
+Freq: 59        	Task: (1) No Task | Event: F-Notification: dismiss assignment
+Freq: 50        	Task: (1) No Task | Event: F-Message: read message
+Freq: 53310     	Task: (4) Workflow: Reply to Assignment | Event: S-Screen button/card login
+Freq: 46907     	Task: (4) Workflow: Reply to Assignment | Event: F-Workflow: Selected assignment
+Freq: 38361     	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: Select Form
+Freq: 37527     	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: All assignments
+Freq: 34427     	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: Form input
+Freq: 27809     	Task: (4) Workflow: Reply to Assignment | Event: F-Workflow: Update assignment
+Freq: 11448     	Task: (4) Workflow: Reply to Assignment | Event: F-Workflow: New assignment
+Freq: 519       	Task: (4) Workflow: Reply to Assignment | Event: E-Unfinished tasks
+Freq: 386       	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: Started assignments
+Freq: 357       	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: Finished assignments
+Freq: 299       	Task: (4) Workflow: Reply to Assignment | Event: S-Workflow: Unfinished assignments
+Freq: 168       	Task: (4) Workflow: Reply to Assignment | Event: S-DRIVERSACTIVITY
+Freq: 100       	Task: (4) Workflow: Reply to Assignment | Event: F-Notification: open assignment
+Freq: 58        	Task: (4) Workflow: Reply to Assignment | Event: S-Screen manual login
+Freq: 23        	Task: (4) Workflow: Reply to Assignment | Event: F-Notification: open message
+Freq: 24583     	Task: (5) Message Reply | Event: S-Message: inbox
+Freq: 22439     	Task: (5) Message Reply | Event: S-Screen button/card login
+Freq: 17473     	Task: (5) Message Reply | Event: F-Message: select
+Freq: 9122      	Task: (5) Message Reply | Event: F-Message: delete
+Freq: 2323      	Task: (5) Message Reply | Event: S-Message: sent
+Freq: 2087      	Task: (5) Message Reply | Event: F-Message: reply
+Freq: 2086      	Task: (5) Message Reply | Event: S-Message: new reply
+Freq: 1470      	Task: (5) Message Reply | Event: F-Message: send
+Freq: 1405      	Task: (5) Message Reply | Event: F-Message: read message
+Freq: 339       	Task: (5) Message Reply | Event: S-Message: failed
+Freq: 299       	Task: (5) Message Reply | Event: F-Message: stop message
+Freq: 234       	Task: (5) Message Reply | Event: E-Unfinished tasks
+Freq: 61        	Task: (5) Message Reply | Event: S-DRIVERSACTIVITY
+Freq: 53        	Task: (5) Message Reply | Event: S-Screen manual login
+Freq: 29        	Task: (5) Message Reply | Event: E-Message: empty
+Freq: 21139     	Task: (2) Logged in | Event: F-Manual Login-driver
+Freq: 14519     	Task: (2) Logged in | Event: S-Screen button/card login
+Freq: 5631      	Task: (2) Logged in | Event: F-Driver card Login-driver
+Freq: 569       	Task: (2) Logged in | Event: F-Driver card Login-codriver
+Freq: 298       	Task: (2) Logged in | Event: S-DRIVERSACTIVITY
+Freq: 154       	Task: (2) Logged in | Event: F-Ibutton Login-driver
+Freq: 100       	Task: (2) Logged in | Event: E-Manual login: wrong combination
+Freq: 98        	Task: (2) Logged in | Event: F-Ibutton Login-codriver
+Freq: 49        	Task: (2) Logged in | Event: F-Manual Login-codriver
+Freq: 34        	Task: (2) Logged in | Event: E-Unfinished tasks
+Freq: 13633     	Task: (3) New Message Notification | Event: S-Notification: new message
+Freq: 5462      	Task: (3) New Message Notification | Event: F-Notification: open message
+Freq: 972       	Task: (3) New Message Notification | Event: S-Screen button/card login
+Freq: 800       	Task: (3) New Message Notification | Event: F-Notification: dismiss message
+Freq: 657       	Task: (3) New Message Notification | Event: F-Notification: read message
+Freq: 21        	Task: (3) New Message Notification | Event: E-Unfinished tasks
+Freq: 13994     	Task: (6) New Assignment Notification | Event: S-Notification: new assignment
+Freq: 3531      	Task: (6) New Assignment Notification | Event: F-Notification: open assignment
+Freq: 334       	Task: (6) New Assignment Notification | Event: S-Screen button/card login
+Freq: 283       	Task: (6) New Assignment Notification | Event: F-Notification: dismiss assignment
+Freq: 121       	Task: (6) New Assignment Notification | Event: F-Workflow: Selected assignment
+Freq: 7798      	Task: (7) New Message | Event: S-Message: new
+Freq: 5449      	Task: (7) New Message | Event: F-Message: send
+Freq: 504       	Task: (7) New Message | Event: S-Screen button/card login
+Freq: 186       	Task: (7) New Message | Event: F-Message: select
+Freq: 65        	Task: (7) New Message | Event: E-Message: empty
+Freq: 41        	Task: (7) New Message | Event: S-Message: new reply
+Freq: 41        	Task: (7) New Message | Event: F-Message: reply
+Freq: 251       	Task: (9) System Task | Event: F-short idling: amber => green
+Freq: 209       	Task: (9) System Task | Event: F-eco rpm: amber => red
+Freq: 196       	Task: (9) System Task | Event: F-cruise control: amber => red
+Freq: 182       	Task: (9) System Task | Event: F-cruise control: red => amber
+Freq: 176       	Task: (9) System Task | Event: F-eco rpm: red => amber
+Freq: 158       	Task: (9) System Task | Event: F-short idling: green => amber
+Freq: 152       	Task: (9) System Task | Event: F-eco rpm: amber => amber
+Freq: 105       	Task: (9) System Task | Event: F-long idling: green => amber
+Freq: 92        	Task: (9) System Task | Event: F-speeding events: green => amber
+Freq: 92        	Task: (9) System Task | Event: F-cruise control: amber => amber
+Freq: 87        	Task: (9) System Task | Event: F-short idling: amber => amber
+Freq: 85        	Task: (9) System Task | Event: F-long idling: amber => green
+Freq: 75        	Task: (9) System Task | Event: F-short idling: red => green
+Freq: 72        	Task: (9) System Task | Event: F-eco rpm: amber => green
+Freq: 57        	Task: (9) System Task | Event: F-short idling: amber => red
+Freq: 56        	Task: (9) System Task | Event: F-speeding events: amber => green
+Freq: 56        	Task: (9) System Task | Event: F-short idling: red => amber
+Freq: 56        	Task: (9) System Task | Event: F-cruise control: amber => green
+Freq: 50        	Task: (9) System Task | Event: F-speeding events: amber => red
+Freq: 49        	Task: (9) System Task | Event: F-wasted inertia: amber => green
+Freq: 48        	Task: (9) System Task | Event: F-wasted inertia: green => amber
+Freq: 48        	Task: (9) System Task | Event: F-long idling: amber => amber
+Freq: 39        	Task: (9) System Task | Event: F-long idling: amber => red
+Freq: 38        	Task: (9) System Task | Event: F-speeding events: amber => amber
+Freq: 35        	Task: (9) System Task | Event: F-coasting: red => amber
+Freq: 35        	Task: (9) System Task | Event: F-coasting: amber => green
+Freq: 34        	Task: (9) System Task | Event: F-cruise control: red => red
+Freq: 34        	Task: (9) System Task | Event: F-pto: green => amber
+Freq: 34        	Task: (9) System Task | Event: F-short idling: green => red
+Freq: 33        	Task: (9) System Task | Event: F-eco rpm: green => amber
+Freq: 23        	Task: (9) System Task | Event: F-long idling: red => green
+Freq: 20        	Task: (9) System Task | Event: F-coasting: amber => amber
+Freq: 179       	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: style
+Freq: 166       	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: events
+Freq: 149       	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: events 2
+Freq: 122       	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: idling
+Freq: 65        	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: idling 2
+Freq: 59        	Task: (10) Driver Coach interaction | Event: S-Driver Coach page selected: home
+Freq: 57        	Task: (13) Gallery picture | Event: F-Assignment reply gallery picure: new
+Freq: 30        	Task: (13) Gallery picture | Event: F-Assignment reply gallery picture: new
+Freq: 39        	Task: (11) Scan | Event: F-Assignment reply scan: new
+Freq: 36        	Task: (11) Scan | Event: F-Undocked scan: new
+Freq: 31        	Task: (12) Camera picture | Event: F-Assignment reply camera picture: new
+Freq: 24        	Task: (12) Camera picture | Event: F-Undocked camera picture: new
+Freq: 21        	Task: (8) Switch drivers | Event: S-Screen button/card login
+Columns per task: [21, 15, 15, 10, 6, 5, 7, 32, 6, 2, 2, 2, 1]

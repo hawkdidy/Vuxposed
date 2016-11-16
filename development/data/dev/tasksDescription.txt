@@ -1,0 +1,139 @@
+Model Tasks Description:
+
+Task: 12, Camera picture has: 2 events
+	81 		F-Assignment reply camera picture: new
+	87 		F-Undocked camera picture: new
+Task: 10, Driver Coach interaction has: 6 events
+	3 		S-Driver Coach page selected: events
+	30 		S-Driver Coach page selected: events 2
+	34 		S-Driver Coach page selected: home
+	76 		S-Driver Coach page selected: idling
+	108 		S-Driver Coach page selected: idling 2
+	91 		S-Driver Coach page selected: style
+Task: 13, Gallery picture has: 2 events
+	118 		F-Assignment reply gallery picture: new
+	7 		F-Assignment reply gallery picure: new
+Task: 2, Logged in has: 10 events
+	1 		E-Manual login: wrong combination
+	51 		E-Unfinished tasks
+	79 		F-Driver card Login-codriver
+	36 		F-Driver card Login-driver
+	75 		F-Ibutton Login-codriver
+	101 		F-Ibutton Login-driver
+	52 		F-Manual Login-codriver
+	49 		F-Manual Login-driver
+	59 		S-DRIVERSACTIVITY
+	39 		S-Screen button/card login
+Task: 5, Message Reply has: 15 events
+	106 		E-Message: empty
+	82 		E-Unfinished tasks
+	46 		F-Message: delete
+	104 		F-Message: read message
+	113 		F-Message: reply
+	103 		F-Message: select
+	47 		F-Message: send
+	89 		F-Message: stop message
+	96 		S-DRIVERSACTIVITY
+	57 		S-Message: failed
+	37 		S-Message: inbox
+	23 		S-Message: new reply
+	123 		S-Message: sent
+	86 		S-Screen button/card login
+	22 		S-Screen manual login
+Task: 6, New Assignment Notification has: 5 events
+	42 		F-Notification: dismiss assignment
+	119 		F-Notification: open assignment
+	38 		F-Workflow: Selected assignment
+	18 		S-Notification: new assignment
+	120 		S-Screen button/card login
+Task: 7, New Message has: 7 events
+	121 		E-Message: empty
+	14 		F-Message: reply
+	78 		F-Message: select
+	94 		F-Message: send
+	45 		S-Message: new
+	109 		S-Message: new reply
+	53 		S-Screen button/card login
+Task: 3, New Message Notification has: 6 events
+	97 		E-Unfinished tasks
+	124 		F-Notification: dismiss message
+	2 		F-Notification: open message
+	71 		F-Notification: read message
+	116 		S-Notification: new message
+	88 		S-Screen button/card login
+Task: 1, No Task has: 21 events
+	110 		E-Unexpected application restart
+	28 		E-Unfinished tasks
+	43 		E-Workflow: assignment not validated
+	32 		F-Message: delete
+	73 		F-Message: read message
+	70 		F-Message: reply
+	122 		F-Message: select
+	99 		F-Message: send
+	40 		F-Notification: dismiss assignment
+	100 		F-Notification: dismiss message
+	102 		F-Notification: open assignment
+	72 		F-Notification: open message
+	4 		F-Notification: read message
+	61 		F-Workflow: Selected assignment
+	54 		F-Workflow: Update assignment
+	117 		S-DRIVERSACTIVITY
+	115 		S-Message: new reply
+	8 		S-Screen button/card login
+	35 		S-Screen manual login
+	50 		S-Workflow: Form input
+	107 		S-Workflow: Select Form
+Task: 11, Scan has: 2 events
+	24 		F-Assignment reply scan: new
+	114 		F-Undocked scan: new
+Task: 8, Switch drivers has: 1 events
+	68 		S-Screen button/card login
+Task: 9, System Task has: 32 events
+	20 		F-coasting: amber => amber
+	9 		F-coasting: amber => green
+	33 		F-coasting: red => amber
+	17 		F-cruise control: amber => amber
+	63 		F-cruise control: amber => green
+	27 		F-cruise control: amber => red
+	77 		F-cruise control: red => amber
+	112 		F-cruise control: red => red
+	19 		F-eco rpm: amber => amber
+	58 		F-eco rpm: amber => green
+	83 		F-eco rpm: amber => red
+	16 		F-eco rpm: green => amber
+	85 		F-eco rpm: red => amber
+	74 		F-long idling: amber => amber
+	55 		F-long idling: amber => green
+	84 		F-long idling: amber => red
+	64 		F-long idling: green => amber
+	31 		F-long idling: red => green
+	66 		F-pto: green => amber
+	60 		F-short idling: amber => amber
+	29 		F-short idling: amber => green
+	56 		F-short idling: amber => red
+	69 		F-short idling: green => amber
+	11 		F-short idling: green => red
+	41 		F-short idling: red => amber
+	80 		F-short idling: red => green
+	65 		F-speeding events: amber => amber
+	10 		F-speeding events: amber => green
+	5 		F-speeding events: amber => red
+	25 		F-speeding events: green => amber
+	26 		F-wasted inertia: amber => green
+	6 		F-wasted inertia: green => amber
+Task: 4, Workflow: Reply to Assignment has: 15 events
+	21 		E-Unfinished tasks
+	13 		F-Notification: open assignment
+	111 		F-Notification: open message
+	90 		F-Workflow: New assignment
+	105 		F-Workflow: Selected assignment
+	67 		F-Workflow: Update assignment
+	12 		S-DRIVERSACTIVITY
+	95 		S-Screen button/card login
+	15 		S-Screen manual login
+	93 		S-Workflow: All assignments
+	92 		S-Workflow: Finished assignments
+	48 		S-Workflow: Form input
+	62 		S-Workflow: Select Form
+	98 		S-Workflow: Started assignments
+	44 		S-Workflow: Unfinished assignments

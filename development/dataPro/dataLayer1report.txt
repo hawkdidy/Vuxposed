@@ -1,0 +1,14 @@
+Report for the generation of the data layer 1 (production)
+Completed: 2016-03-16 16:48:47 +0000
+
+Original file headers: sessionID,sequenceID,taskID,activityID,userID,type,startTime
+Number of processed records: 1064119
+Number of different sessions: 523329
+Number of different tasks: 16
+Number of different events: 149
+Number of different users: 2369
+Number of different event types: 6
+
+DEBUGGING: number of records processed is limited to max: 999999999 records
+Total processing time (including file operations, excluding app launch and GUI): 70.2637729644775 seconds
+You're using uxDataProcess v1.0 (Build 1).
