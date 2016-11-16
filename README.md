@@ -1,2 +1,2 @@
 # Vuxposed
-Data visualization project 
+Data visualization project for a course during my masters. We worked with a UX design company based out of antwerp to help them create a noval data visualization which showed how users of application went about actually using the application. Under the development you will find a folder called largematrix. There you can run a live version of the design. In the production folder under figures you can find static pictures of our final design. The design folder gives insite into how we came up with the final design.
